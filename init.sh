@@ -4,6 +4,8 @@ sudo apt install apache2
 sudo apt install mysql-server
 sudo apt install php libapache2-mod-php php-mysql php-curl
 sudo apt install php-xml
+sudo apt install php7.4-xml
+sudo apt install php8.3-xml
 sudo apt install php-gd
 #install certbot
 sudo snap install --classic certbot
